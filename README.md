@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/erk-showroom-banner.svg" alt="ERK INDUSTRY" width="100%"/>
+  <img src="./assets/erk-showroom-banner.svg" alt="ERK INDUSTRY — Built in Türkiye. Designed for the world." width="100%"/>
+  <sub><strong>ERK INDUSTRY</strong> — Built in Türkiye. Designed for the world.</sub>
 </div>
 
 <br/>
