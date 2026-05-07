@@ -41,7 +41,7 @@ A multi-domain product studio operating across industrial technology, mobile app
 | **Nearior** | Local · Lifestyle | Local appointment and lifestyle ecosystem. Designed for salons, restaurants, events, local discovery, and city-based business experiences. | In Development |
 | **Mecavio** | B2B · Industrial | B2B platform for the machining and manufacturing sector. Focused on CNC capacity marketplace, supplier-buyer connections, and industrial opportunity matching. | Concept Stage |
 | **Loadopt** | Logistics | Container and loading optimization platform. Built around smarter logistics, better space usage, and operational efficiency for freight and cargo. | Concept Stage |
-| **[ERK MODS](https://erk-nexus-forge.lovable.app)** | Gaming · FiveM | AI-powered FiveM experiences, RP server systems, premium UI packs, server tools, and next-generation gameplay mechanics. | Active |
+| **ERK MODS** | Gaming · FiveM | AI-powered FiveM experiences, RP server systems, premium UI packs, server tools, and next-generation gameplay mechanics. | Active |
 
 <br/>
 
@@ -82,12 +82,6 @@ It is an example that products at ERK INDUSTRY do not stay in planning — they 
 <br/>
 
 ## ERK MODS — AI-Powered FiveM Experiences
-
-<div align="right">
-  <a href="https://erk-nexus-forge.lovable.app">
-    <img src="https://img.shields.io/badge/ERK%20MODS-Website-00D4FF?style=flat-square&logoColor=white" alt="ERK MODS"/>
-  </a>
-</div>
 
 **Beyond Scripts.**
 **Building the Future of GTA RP.**
@@ -159,8 +153,6 @@ This is not an outside perspective on the FiveM world. This is an operator's per
 ![SaaS](https://img.shields.io/badge/Web--Based_SaaS-0A0E1A?style=flat-square&color=0A0E1A&labelColor=0A0E1A&logo=vercel&logoColor=00D4FF)
 &nbsp;
 ![Mobile](https://img.shields.io/badge/Mobile_App_Development-0A0E1A?style=flat-square&color=0A0E1A&labelColor=0A0E1A&logo=swift&logoColor=00D4FF)
-&nbsp;
-![No-Code](https://img.shields.io/badge/No--Code_%2F_Low--Code_Pipelines-0A0E1A?style=flat-square&color=0A0E1A&labelColor=0A0E1A&logo=zapier&logoColor=00D4FF)
 &nbsp;
 ![Industrial](https://img.shields.io/badge/Industrial_Workflow_Design-0A0E1A?style=flat-square&color=0A0E1A&labelColor=0A0E1A&logo=siemens&logoColor=00D4FF)
 &nbsp;
@@ -237,12 +229,10 @@ This is not an outside perspective on the FiveM world. This is an operator's per
 
 | | |
 |:---:|:---|
-| **ERK MODS** | [erk-nexus-forge.lovable.app](https://erk-nexus-forge.lovable.app) |
 | **Aklımda** | [App Store](https://apps.apple.com/tr/app/aklımda/id6764873974) |
-| **ERK INDUSTRY** | Coming soon |
+| **LinkedIn** | Coming soon |
 | **Discord** | Coming soon |
 | **Tebex** | Coming soon |
-| **LinkedIn** | Coming soon |
 
 </div>
 
