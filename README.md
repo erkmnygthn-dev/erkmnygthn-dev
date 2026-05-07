@@ -10,7 +10,7 @@
 
 # Yiğithan Erkmen
 
-**Founder & Builder at ERK INDUSTRY**
+**Founder & Builder at [ERK INDUSTRY](https://erkindustry.com)**
 
 `AI-Powered Systems` &nbsp;·&nbsp; `Industrial Platforms` &nbsp;·&nbsp; `Shipped Apps` &nbsp;·&nbsp; `Next-Gen RP Experiences`
 
@@ -38,12 +38,12 @@ A multi-domain product studio operating across industrial technology, mobile app
 
 | Product | Domain | Description | Status |
 |---|---|---|---|
-| **[Aklımda](https://apps.apple.com/tr/app/aklımda/id6764873974)** | Mobile · iOS | Turkish reminder and life-tracking app. Helps users remember return deadlines, warranties, subscriptions, vehicle tasks, contracts, special days, and personal commitments. | ✦ Live on App Store |
-| **GetsFlow** | Industrial · SaaS | Manufacturing operations platform for CNC and industrial production teams. Production tracking, machine planning, stock visibility, maintenance logs, downtime, scrap management, and operational control. | In Development |
-| **Nearior** | Local · Lifestyle | Local appointment and lifestyle ecosystem. Designed for salons, restaurants, events, local discovery, and city-based business experiences. | In Development |
-| **Mecavio** | B2B · Industrial | B2B platform for the machining and manufacturing sector. Focused on CNC capacity marketplace, supplier-buyer connections, and industrial opportunity matching. | Concept Stage |
-| **Loadopt** | Logistics | Container and loading optimization platform. Built around smarter logistics, better space usage, and operational efficiency for freight and cargo. | Concept Stage |
-| **ERK MODS** | Gaming · FiveM | AI-powered FiveM experiences, RP server systems, premium UI packs, server tools, and next-generation gameplay mechanics. | Active |
+| **[Aklımda](https://apps.apple.com/tr/app/aklımda/id6764873974)** | Mobile · iOS | Turkish reminder and life-tracking app for return deadlines, warranties, subscriptions, commitments, contracts, vehicle tasks, special days, and personal reminders. | ✦ Live on App Store |
+| **[GetsFlow](https://getsflow.com)** | Industrial · SaaS | Manufacturing operations platform for CNC and industrial production teams, focused on production tracking, machine planning, stock visibility, maintenance, downtime, scrap logs, and operational control. | ✦ Website Live |
+| **[Nearior](https://nearior.com)** | Local · Lifestyle | Local appointment and lifestyle platform ecosystem for salons, restaurants, events, local discovery, and city-based business experiences. | ✦ Website Live |
+| **[Mecavio](https://mecavio.com)** | B2B · Industrial | B2B platform concept for the machining and manufacturing sector, focused on CNC capacity, supplier-buyer connections, and industrial opportunity matching. | ✦ Website Live |
+| **Loadopt** | Logistics | Container and loading optimization concept focused on smarter space usage, logistics efficiency, and operational planning. | Concept Stage |
+| **ERK MODS** | Gaming · FiveM | AI-assisted FiveM experiences, RP systems, modern UI packs, server tools, and gameplay mechanics. | In Development |
 
 <br/>
 
@@ -187,8 +187,8 @@ This is not an outside perspective on the FiveM world. This is an operator's per
 
 **Improving**
 - Iterating on Aklımda based on real user patterns
-- Moving GetsFlow toward beta-ready state
-- Shaping Nearior and Mecavio toward first release candidates
+- Deepening GetsFlow's production-floor feature set
+- Growing the Nearior and Mecavio ecosystems
 - Turning *"keşke olsa"* ideas into real, shipped products
 
 </td>
@@ -231,10 +231,14 @@ This is not an outside perspective on the FiveM world. This is an operator's per
 
 | | |
 |:---:|:---|
+| **ERK INDUSTRY** | [erkindustry.com](https://erkindustry.com) |
 | **Aklımda** | [App Store](https://apps.apple.com/tr/app/aklımda/id6764873974) |
-| **LinkedIn** | Coming soon |
+| **GetsFlow** | [getsflow.com](https://getsflow.com) |
+| **Nearior** | [nearior.com](https://nearior.com) |
+| **Mecavio** | [mecavio.com](https://mecavio.com) |
 | **Discord** | Coming soon |
 | **Tebex** | Coming soon |
+| **LinkedIn** | Coming soon |
 
 </div>
 
