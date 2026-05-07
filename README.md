@@ -1,7 +1,8 @@
-<div align="center">
-  <img src="./assets/erk-showroom-banner.svg" alt="ERK INDUSTRY — Built in Türkiye. Designed for the world." width="100%"/>
-  <sub><strong>ERK INDUSTRY</strong> — Built in Türkiye. Designed for the world.</sub>
-</div>
+<p align="center">
+  <img src="./assets/erk-showroom-banner.png" alt="ERK INDUSTRY — Built in Türkiye. Designed for the world." width="100%" />
+</p>
+
+<sub>ERK INDUSTRY — Built in Türkiye. Designed for the world.</sub>
 
 <br/>
 
