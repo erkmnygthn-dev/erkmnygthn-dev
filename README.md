@@ -53,11 +53,7 @@ A multi-domain product studio operating across industrial technology, mobile app
 
 ## Aklımda — iOS App
 
-<div align="right">
-  <a href="https://apps.apple.com/tr/app/aklımda/id6764873974">
-    <img src="https://img.shields.io/badge/App%20Store-Aklımda-0A84FF?style=flat-square&logo=apple&logoColor=white" alt="App Store"/>
-  </a>
-</div>
+**[Aklımda on the App Store →](https://apps.apple.com/tr/app/aklımda/id6764873974)**
 
 Aklımda is a Turkish mobile app built around a straightforward observation: people forget important things, and small forgotten deadlines can become expensive problems.
 
@@ -132,7 +128,7 @@ That experience shaped what ERK MODS is today:
 
 > *"Play first. Notice what is missing. Design the system. Test it with real players. Then turn it into a polished product."*
 
-This is not an outside perspective on the FiveM world. This is an operator's perspective — built from years inside it.
+This is not an outside perspective on the FiveM world. This is an operator's perspective — built from real server experience.
 
 <br/>
 
@@ -178,7 +174,7 @@ This is not an outside perspective on the FiveM world. This is an operator's per
 
 **Building**
 - Expanding the ERK MODS FiveM ecosystem
-- Developing premium RP systems ready for release
+- Preparing premium RP systems for testing, beta feedback, and future release
 - Building AI-assisted production workflows across products
 - Preparing ERK INDUSTRY product infrastructure
 
