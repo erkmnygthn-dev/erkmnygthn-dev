@@ -43,7 +43,7 @@ A multi-domain product studio operating across industrial technology, mobile app
 | **[Nearior](https://nearior.com)** | Local · Lifestyle | Local appointment and lifestyle platform ecosystem for salons, restaurants, events, local discovery, and city-based business experiences. | ✦ Website Live |
 | **[Mecavio](https://mecavio.com)** | B2B · Industrial | B2B platform concept for the machining and manufacturing sector, focused on CNC capacity, supplier-buyer connections, and industrial opportunity matching. | ✦ Website Live |
 | **Loadopt** | Logistics | Container and loading optimization concept focused on smarter space usage, logistics efficiency, and operational planning. | Concept Stage |
-| **ERK MODS** | Gaming · FiveM | AI-assisted FiveM experiences, RP systems, modern UI packs, server tools, and gameplay mechanics. | In Development |
+| **[ERK MODS](https://www.erkmods.com)** | FiveM / RP Systems | AI-assisted FiveM experiences, RP systems, modern UI packs, server tools, gameplay mechanics, and next-generation roleplay infrastructure. | ✦ Website Live / In Development |
 
 <br/>
 
@@ -87,6 +87,10 @@ It is an example that products at ERK INDUSTRY do not stay in planning — they 
 
 **Beyond Scripts.**
 **Building the Future of GTA RP.**
+
+<br/>
+
+**Official Website:** [erkmods.com](https://www.erkmods.com)
 
 <br/>
 
@@ -232,6 +236,7 @@ This is not an outside perspective on the FiveM world. This is an operator's per
 | | |
 |:---:|:---|
 | **ERK INDUSTRY** | [erkindustry.com](https://erkindustry.com) |
+| **ERK MODS** | [erkmods.com](https://www.erkmods.com) |
 | **Aklımda** | [App Store](https://apps.apple.com/tr/app/aklımda/id6764873974) |
 | **GetsFlow** | [getsflow.com](https://getsflow.com) |
 | **Nearior** | [nearior.com](https://nearior.com) |
